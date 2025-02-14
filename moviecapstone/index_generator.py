@@ -28,11 +28,11 @@ dim = 384
 index_path = "index"
 
 if not os.path.exists(index_path):  
-    print("⚡ Generating FAISS index...")
+    print("Generating FAISS index...")
     index = faiss.IndexFlatL2(dim)
     X = np.zeros((len(df['textual_rep']), dim), dtype='float32')
 
-    # Compute embeddings
+    # Computes embeddings
     for i, representation in enumerate(df['textual_rep']):
         if i % 30 == 0:
             print(f'Processed {i} instances')
@@ -45,6 +45,6 @@ if not os.path.exists(index_path):
 
     # Save FAISS index
     faiss.write_index(index, index_path)
-    print("✅ FAISS index saved!")
+    print("FAISS index saved!")
 else:
-    print("✅ FAISS index already exists, skipping computation.")
+    print("FAISS index already exists, skipping computation.")
