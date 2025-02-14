@@ -1,4 +1,4 @@
-import os  # Importing the os module to interact with the operating system (for file paths and environment variables)
+import os 
 import streamlit as st  # Importing Streamlit to create the web-based chat application
 
 # Importing necessary components from LangChain for handling PDFs, text processing, and AI models
