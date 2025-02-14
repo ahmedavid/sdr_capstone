@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-This **Movie Recommendation System** allows users to find movies based on either a movie title or a description of the type of movie they are looking for. It utilizes **Sentence Transformers** for embedding generation and **FAISS** for fast similarity search, which enables real-time recommendations.
+This **Movie Recommendation System** allows users to find similar movies based on either a movie title or a description of the type of movie they are looking for. It utilizes **Sentence Transformers** for embedding generation and **FAISS** for fast similarity search, which enables real-time recommendations.
 ## Author
 
 - **[Laçin Boz]([https://github.com/your-github-username](https://github.com/lacinboz))** 
@@ -80,7 +80,12 @@ This **Movie Recommendation System** allows users to find movies based on either
 - Users can refine their search for better recommendations.
 
 ---
-![Movie Recommendation System](moviecapstone/example1.png)
-![Movie Recommendation System](moviecapstone/example2.png)
+![Describe A Mpvie](https://github.com/ahmedavid/sdr_capstone/blob/main/moviecapstone/example1.png)
+
+![Search by Movie](https://github.com/ahmedavid/sdr_capstone/blob/main/moviecapstone/example2.png)
+
+
+
+
 
 
