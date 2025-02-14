@@ -14,6 +14,8 @@ This **Movie Recommendation System** allows users to find similar movies based o
 ✅ **Interactive Web Interface** – Built with **Streamlit**, providing an easy-to-use UI for movie discovery.  
 
 ---
+## Dataset
+[Kaggle - Netflix Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## 🚀 How to Run
 
