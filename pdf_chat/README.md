@@ -1,5 +1,9 @@
 # Semantic Question and Answering for documents using Large Language Models
 
+Contributers:
+David Ahmadov (Backend, Langchain, Google Gemini Integration, Vector Embeddings)
+Parisa Ahmadlu (Frontend, Ollama integration)
+
 In this project we created an application which user can upload a pdf document and subsequently ask questions about contents of the document.
 Application uses concepts of Chunking, Embedding and Context enriching to allow LLMs to provide accurate answers to questions about the contents of the document 
 thus avoiding hallucinations. Sometimes documents can be too long that can't fit into LLMs context window. Therefore we need this approach instead of simply copy pasting document into LLMs input.
