@@ -8,7 +8,10 @@ This repository contains two projects:
 2. **Movie Recommendation**  
    *Author:* Lacin Boz
 
+3. **story bot**
+   *Parisa Ahmadlu*  
+
 You can find each project's README file in its respective folder.
 
-3.**Paper presentation and the onion classification**
+4.**Paper presentation and the onion classification**
     *The three team-members contributed equally*
