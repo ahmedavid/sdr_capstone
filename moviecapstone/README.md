@@ -82,6 +82,9 @@ This **Movie Recommendation System** allows users to find similar movies based o
 - Users can refine their search for better recommendations.
 
 ---
+### Live Demo
+![Demo](https://github.com/ahmedavid/sdr_capstone/blob/main/moviecapstone/frame.png)
+
 ![Describe A Mpvie](https://github.com/ahmedavid/sdr_capstone/blob/main/moviecapstone/example1.png)
 
 ![Search by Movie](https://github.com/ahmedavid/sdr_capstone/blob/main/moviecapstone/example2.png)
