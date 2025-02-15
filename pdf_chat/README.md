@@ -26,6 +26,9 @@ Langchain
 ## Live Demo
 https://huggingface.co/spaces/ahmedavid/pdf_chat_capstone
 
+![image](https://github.com/user-attachments/assets/ce77b194-b05c-4528-928d-aac370954aaa)
+
+
 ---
 title: Pdf Chat Capstone
 emoji: 👀
