@@ -9,3 +9,6 @@ This repository contains two projects:
    *Author:* Lacin Boz
 
 You can find each project's README file in its respective folder.
+
+3.**Paper presentation and the onion classification***
+    *The three team-members contributed equally*
